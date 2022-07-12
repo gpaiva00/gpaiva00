@@ -24,12 +24,12 @@
 ## Stats
 
 <div>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpaiva00&layout=compact&langs_count=7&theme=dracula" />
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=gpaiva00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpaiva00&layout=compact&langs_count=7&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gpaiva00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
 
-
-<p>if you like what I do, maybe consider buying me a coffee/tea 🥹 </p>
+<br />
+if you like what I do, maybe consider buying me a coffee/tea 🥹
 
 <a href="https://www.buymeacoffee.com/gpaiva" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
