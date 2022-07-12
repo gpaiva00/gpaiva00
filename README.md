@@ -1,8 +1,5 @@
 ## Hi there, I am Gabriel Paiva. 🙋🏽‍♂️
 
-### welcome to my profile!
-
-
 ## Technologies
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
