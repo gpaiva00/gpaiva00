@@ -29,7 +29,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gpaiva00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<p>if you like what i do, maybe consider buying me a coffee/tea</p>
+if you like what i do, maybe consider buying me a coffee/tea 🥹
 
 <a href="https://www.buymeacoffee.com/gpaiva" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
